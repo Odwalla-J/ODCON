@@ -56,3 +56,9 @@ Starting with the left slide half, install a single 30mm standoff into each hole
 The left half may now be installed making sure that the solenoid clamp is seated in the fitted groove, then the right half may be installed and tightened.
 
 If you plan to use a wide angle adapter lens, the threaded insert file can be printed and seated against the notch within the barrel and then glued in place.
+
+
+# Changelog
+
+V1 (Initial Public Release)
+
