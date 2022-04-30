@@ -1,8 +1,8 @@
-# THE ODCON1
+# THE ODCON
 
 
 
-The ODCON1 is a fully 3D printable NAMCO GunCon45 inspired shell for the Gun4IR project
+The ODCON is a fully 3D printable NAMCO GunCon45 inspired shell for the Gun4IR project
 - http://forum.arcadecontrols.com/index.php?topic=161189.0
 
 The ODCON aims to provide a robust and fully featured platform to support all features of the Gun4IR project (including solenoid blowback and vibration) while remaining affordable and accessible to build.
