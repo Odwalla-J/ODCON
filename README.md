@@ -1,8 +1,8 @@
-# THE ODCON
+# THE ODCON1
 
+![ODCON1 Profile Shot](https://user-images.githubusercontent.com/93094360/166126017-333afb5c-ed8c-4397-87b3-d1c404689015.PNG)
 
-
-The ODCON is a fully 3D printable NAMCO GunCon45 inspired shell for the Gun4IR project
+The ODCON1 is a fully 3D printable NAMCO GunCon45 inspired shell for the Gun4IR project
 - http://forum.arcadecontrols.com/index.php?topic=161189.0
 
 The ODCON aims to provide a robust and fully featured platform to support all features of the Gun4IR project (including solenoid blowback and vibration) while remaining affordable and accessible to build.
@@ -22,7 +22,7 @@ Major release credits are owed to some excellent folks in the JB Gaming Gun4IR D
 
 Electronics information and assembly instructions can be located using the Gun4IR project link above.
 
-![ODCON1 Cutaway Shot](https://imgur.com/LtKpQKE)
+![ODCON1 Cutaway Shot](https://user-images.githubusercontent.com/93094360/166126016-0d2219e2-3e4f-47b1-bcdf-8dd4d5f5d81b.PNG)
 
 **-Assembley-**
 
@@ -57,8 +57,4 @@ The left half may now be installed making sure that the solenoid clamp is seated
 
 If you plan to use a wide angle adapter lens, the threaded insert file can be printed and seated against the notch within the barrel and then glued in place.
 
-
 # Changelog
-
-V1 (Initial Public Release)
-
