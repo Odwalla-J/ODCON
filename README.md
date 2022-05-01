@@ -58,3 +58,13 @@ The left half may now be installed making sure that the solenoid clamp is seated
 If you plan to use a wide angle adapter lens, the threaded insert file can be printed and seated against the notch within the barrel and then glued in place.
 
 # Changelog
+
+V1.1
+  -PostLaunchFixes folder added with containing several printable updates for the ODCON.
+    - Lightweight slide added to improve rapid-fire slide return
+    - SlideFix 1 & 2 added
+      - The SlideFix 1 rail can be epoxied to the interior of the rear of the slide
+      - SlideFix 2 can be epoxied laying flat against the corner of the shoulder behind the solenoid 
+    - WiiCamAdapter is a modified version of Discord user SamRevolt's IR sensor mount
+
+Documentation regarding these fixes will be added shortly.
