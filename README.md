@@ -24,7 +24,7 @@ Electronics information and assembly instructions can be located using the Gun4I
 
 ![ODCON1 Cutaway Shot](https://user-images.githubusercontent.com/93094360/166126016-0d2219e2-3e4f-47b1-bcdf-8dd4d5f5d81b.PNG)
 
-**-Assembley-**
+**-Assembly-**
 
 Print the frame pieces dependent on which IR solution you will be installing, there are specific front end pieces for both Wii and DFRobot IR camera setups.
 The barrel print is specific to each front piece as well and should be printed with the barrel vertical.
