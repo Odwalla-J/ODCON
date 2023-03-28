@@ -7,11 +7,11 @@ The ODCON1 is a fully 3D printable NAMCO GunCon45 inspired shell for the Gun4IR 
 
 The ODCON aims to provide a robust and fully featured platform to support all features of the Gun4IR project (including solenoid blowback and vibration) while remaining affordable and accessible to build.
 
-Major release credits are owed to some excellent folks in the JB Gaming Gun4IR Discord. Firstly Pete9l9 and Loll45 for all of their support in refining this release model, RigoHoward for the tested thread adapter model, and finally JayBee for all of his work on the project that makes this possible. 
+Major release credits are owed to some excellent folks in the JB Gaming Gun4IR Discord. Firstly Pete9l9 and Loll45 for all of their support in refining this release model, RigoHoward for the tested thread adapter model, and finally JayBee for all of his work on the excellent Gun4IR project that makes this possible. 
   
 **-Materials-**
 
- - 5.5x5mm 3mm threaded brass inserts 
+ - 3mm threaded brass inserts 
  - 30mm smooth aluminum 3mm standoffs
  - 3mm hex head machine screws
  - Xbox 360 rumble motor
@@ -20,7 +20,9 @@ Major release credits are owed to some excellent folks in the JB Gaming Gun4IR D
  - Spring from any cheap ink pen
  - -GX16 6-pin connector
 
-Electronics information and assembly instructions can be located using the Gun4IR project link above.
+Gun4IR information and assembly instructions can be located using the Gun4IR project link above.
+
+Compatible parts links available at the bottom of the post.
 
 ![ODCON1 Cutaway Shot](https://user-images.githubusercontent.com/93094360/166126016-0d2219e2-3e4f-47b1-bcdf-8dd4d5f5d81b.PNG)
 
@@ -58,6 +60,11 @@ The left half may now be installed making sure that the solenoid clamp is seated
 If you plan to use a wide angle adapter lens, the threaded insert file can be printed and seated against the notch within the barrel and then glued in place.
 
 # Changelog
+
+V1.2
+
+- Updated Slide STL to resolve holes appearing when sliced.
+- Included varaint to account for more common size of threaded inserts. 
 
 V1.1
 
