@@ -80,10 +80,10 @@ Documentation regarding these fixes will be added shortly.
 
  - 3mm threaded brass inserts 
 	 - Amazon - https://rb.gy/1rzq
-	 - AliExpress
- - 30mm smooth aluminum 3mm standoffs
-     - Amazon - https://rb.gy/5j6l
 	 - AliExpress - https://rb.gy/in1x (5.3mm OD x 5mm Length)
+ - 30mm smooth aluminum 3mm standoffs
+     - Amazon - https://rb.gy/5j6l 
+	 - AliExpress - https://rb.gy/vn8g (m3x30)
  - 3mm hex head machine screws
 	 - Amazon - https://rb.gy/ks7q
 	 - AliExpress - https://rb.gy/oom5 (Cap Head)
