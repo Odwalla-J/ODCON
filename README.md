@@ -22,7 +22,7 @@ Major release credits are owed to some excellent folks in the JB Gaming Gun4IR D
 
 Gun4IR information and assembly instructions can be located using the Gun4IR project link above.
 
-** **LINKS TO ORDER PARTS LOCATED AT THE BOTTOM OF THE PAGE****
+****LINKS TO ORDER PARTS LOCATED AT THE BOTTOM OF THE PAGE****
 
 ![ODCON1 Cutaway Shot](https://user-images.githubusercontent.com/93094360/166126016-0d2219e2-3e4f-47b1-bcdf-8dd4d5f5d81b.PNG)
 
